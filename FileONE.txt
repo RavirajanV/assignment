@@ -2,3 +2,6 @@ This is the first file.
 Master
 Doctor
 Don
+Idly
+Dosa
+Vada
